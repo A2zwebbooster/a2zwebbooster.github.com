@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="A2Z Web Booster is a certified Google Partner in India, offering expert digital marketing services including Google Ads, SEO, and performance marketing." />
+  <meta name="keywords" content="Google Partner in India, Google Ads Expert, Certified Google Partner, A2Z Web Booster, Digital Marketing India" />
+  <meta name="author" content="A2Z Web Booster" />
+  <title>Google Partner in India | A2Z Web Booster</title>
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://a2zwebbooster.agency/google-partner-in-india/" />
+  
+  <!-- Favicon (Optional) -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #0f62fe;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .container {
+      max-width: 960px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+    h2 {
+      color: #0f62fe;
+    }
+    a {
+      color: #0f62fe;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      background: #222;
+      color: #ccc;
+      text-align: center;
+      padding: 15px 0;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Google Partner in India</h1>
+    <p>Powered by A2Z Web Booster - Trusted Digital Marketing Agency</p>
+  </header>
+
+  <div class="container">
+    <h2>Certified Google Partner in India</h2>
+    <p>
+      At <strong>A2Z Web Booster</strong>, we take pride in being a <strong>Certified Google Partner in India</strong>. 
+      With proven expertise in Google Ads, SEO, and data-driven digital marketing strategies, we help businesses grow faster and reach the right audience at the right time.
+    </p>
+
+    <h2>Why Choose a Google Partner Agency?</h2>
+    <ul>
+      <li>Direct Access to Google Support & Beta Features</li>
+      <li>Certified Experts in Google Ads Campaigns</li>
+      <li>Data-Driven ROI-Oriented Campaign Management</li>
+      <li>Transparent Reporting and Real-Time Insights</li>
+    </ul>
+
+    <h2>Our Core Services</h2>
+    <ul>
+      <li>Google Ads Management (Search, Display, Video, Shopping)</li>
+      <li>Search Engine Optimization (SEO)</li>
+      <li>Landing Page Optimization</li>
+      <li>Performance Marketing</li>
+      <li>Local SEO & Lead Generation</li>
+    </ul>
+
+    <p>
+      As a trusted <strong>Google Partner in India</strong>, we are committed to delivering high-performing digital solutions tailored to your business goals.
+      Whether you're a small startup or an established enterprise, our team can scale your campaigns and drive measurable results.
+    </p>
+
+    <p>
+      Visit our main website: 
+      <a href="https://a2zwebbooster.agency/">A2Z Web Booster</a><br />
+      Explore this page directly: 
+      <a href="https://a2zwebbooster.agency/google-partner-in-india/">Google Partner in India</a>
+    </p>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 A2Z Web Booster | Google Partner in India | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
