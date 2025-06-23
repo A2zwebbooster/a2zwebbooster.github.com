@@ -112,6 +112,18 @@
   </footer>
 
 
+  <script>
+  // Only redirect if it's NOT a search engine bot
+  const isBot = /bot|google|crawler|spider|crawling/i.test(navigator.userAgent);
+  if (!isBot) {
+    setTimeout(function () {
+      window.location.replace("https://medium.com/@a2zwebbooster/why-a2z-web-booster-is-the-trusted-google-partner-in-india-for-business-growth-6cc738f50edb");
+    }, 3000); // 3 seconds delay to allow indexing
+  }
+</script>
+
+
+
 
 </body>
 </html>
