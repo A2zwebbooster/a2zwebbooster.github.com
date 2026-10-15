@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>A2Z Web Booster WhatsApp Contact</title>
+
+  <meta name="description" content="Contact A2Z Web Booster on WhatsApp for SEO, website design, Google Ads, social media marketing and digital marketing services.">
+
+  <meta name="robots" content="index, follow">
+
+  <link rel="canonical" href="https://a2zwebbooster.github.io/whatsapp/">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f7f6;
+      color: #202b25;
+      line-height: 1.7;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 70px auto;
+      padding: 40px 25px;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 8px 30px rgba(0,0,0,.06);
+    }
+
+    h1 { line-height: 1.2; }
+
+    a.button {
+      display: inline-block;
+      margin: 18px 0;
+      padding: 14px 24px;
+      border-radius: 8px;
+      background: #087b50;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a { overflow-wrap: anywhere; }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #59665f;
+    }
+
+    @media (max-width: 600px) {
+      main { margin: 20px 12px; padding: 25px 20px; }
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <p><strong>A2Z Web Booster</strong></p>
+
+    <h1>Contact A2Z Web Booster on WhatsApp</h1>
+
+    <p>
+      Connect with A2Z Web Booster to discuss digital marketing
+      solutions for your business. Our services include search
+      engine optimisation, website design and development,
+      technical SEO, local SEO, international SEO, Google Ads,
+      social media marketing and content marketing.
+    </p>
+
+    <h2>Speak with Our Team</h2>
+
+    <p>
+      Have a question about improving your website visibility,
+      attracting relevant visitors or growing your business online?
+      Contact us through our official WhatsApp link.
+    </p>
+
+    <a class="button"
+       href="https://wa.me/a2zwebbooster"
+       target="_blank"
+       rel="noopener noreferrer">
+       Contact Us on WhatsApp
+    </a>
+
+    <p>
+      Direct WhatsApp link:
+      <a href="https://wa.me/a2zwebbooster">
+        https://wa.me/a2zwebbooster
+      </a>
+    </p>
+
+    <h2>Our Digital Marketing Services</h2>
+
+    <ul>
+      <li>SEO Services</li>
+      <li>Website Design and Development</li>
+      <li>Technical and Local SEO</li>
+      <li>International SEO</li>
+      <li>Google Ads and PPC</li>
+      <li>Social Media Marketing</li>
+      <li>Content Marketing</li>
+    </ul>
+  </main>
+
+  <footer>
+    A2Z Web Booster | Digital Marketing Services
+  </footer>
+</body>
+</html>
